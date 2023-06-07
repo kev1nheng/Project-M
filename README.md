@@ -1,6 +1,7 @@
 # Project M
- BTM 380: Database Management.
+BTM 380: Database Management.
  
+Final project submission in 2019.
 MySql project to emulate a music streaming service database and its data models. 
 
  
