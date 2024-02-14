@@ -25,11 +25,11 @@ The LTV is the Life Time Value of a customer which tells us how much an user con
 
 5.	Display the free, platinum and gold turnover in days
 
-5.1  This query displays the number of days that free subscribers remain in service and the number of days they are no longer free user.
+	5.1  This query displays the number of days that free subscribers remain in service and the number of days they are no longer free user.
 
-5.2 This query displays the number of days that gold subscribers remain in service and the number of days they are no longer gold user.
+	5.2 This query displays the number of days that gold subscribers remain in service and the number of days they are no longer gold user.
 
-5.3  This query displays the number of days that plat subscribers remain in service and the number of days they are no longer platinum user. 
+	5.3  This query displays the number of days that plat subscribers remain in service and the number of days they are no longer platinum user. 
 
 6.	Display the daily average ad revenue per customer
 
