@@ -54,7 +54,9 @@ This query displays the RFM score for every user. RFM is a strategy for estimati
 This group of queries is self-explanatory. It is important because it shows us many different aspects of profitability.
 
 10.1 Display start date, end date and the revenue stream from free subscriber.
+
 10.2 Display start date, end date and the revenue stream from gold subscriber.
+
 10.3 Display start date, end date and the revenue stream from platinum subscriber.
 
 
